@@ -1,6 +1,0 @@
-```txt
-PySide6
-pandas
-joblib
-lightgbm
-scikit-learn
